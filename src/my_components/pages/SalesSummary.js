@@ -3,7 +3,8 @@ import DatePicker from '../pages/CustomContents/DateRangeSelector'
 
 export class SalesSummary extends Component {
     componentDidMount(){
-        console.log('Sales Summary mounted')
+        console.log('Sales Summary mounted');
+        console.log('foobar')
     }
     render() {
         return (
