@@ -1,0 +1,9 @@
+/node_modules
+/documentation
+CHANGELOG.md
+ISSUE_TEMPLATE.md
+LICENSE.md
+README.md
+bower.json
+gulpfile.js
+jsconfig.json
